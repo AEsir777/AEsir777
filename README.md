@@ -6,7 +6,8 @@
 - 📫 How to reach me: k322liu@uwaterloo.ca <br>
 - 🤔 I’m looking for help with cyrptocurrency and some financial knowledge <br>
 - 👯 I’m looking to collaborate on building a web application to correct the pronunciation for hearing-impaired people. <br>
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her or what else don't care <br>
+- ⚡ Fun fact: My profile picture was drawn by AI.
 
 <br>
 <br>
