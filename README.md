@@ -22,7 +22,9 @@
 <br>
 <br>
 <h4 align="left" > Tools and Framwork </h3>
-<img align="left" alt="Ddjango" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png">
+<img align="left" alt="Node.js" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png">
+<img align="left" alt="MongoDB" width="30px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
+<img align="left" alt="Django" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png">
 <img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png">
 <img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 <img align="left" alt="AWS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png">
