@@ -2,7 +2,7 @@
 <h2 align="left" > About Me </h2>
 <img align="right" alt="learning-gif" src="https://cdn.dribbble.com/users/24711/screenshots/1507479/learngit-teaser.gif" width="240px">
 - 🔭 I’m currently working on my porfolio <br>
-- 🌱 I’m currently learning NLP and express.js<br>
+- 🌱 I’m currently learning distributing big data<br>
 - 📫 How to reach me: k322liu@uwaterloo.ca <br>
 - 🤔 I’m looking for help with cyrptocurrency and some financial knowledge <br>
 - 👯 I’m looking to collaborate on building a web application to correct the pronunciation for hearing-impaired people. <br>
